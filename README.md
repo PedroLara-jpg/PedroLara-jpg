@@ -23,9 +23,9 @@ Gosto de aprender coisas novas, resolver problemas e explorar como a tecnologia 
 ---
 
 ## 📈 Estatísticas do GitHub
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLara-jpg&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLara-jpg&layout=compact&theme=radical)
 
 ---
 
