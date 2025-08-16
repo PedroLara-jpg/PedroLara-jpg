@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Pedro!
 
-💻 Entusiasta de tecnologia, programação e matemática.  
+💻 Entusiasta de tecnologia, programação e relações sociais.  
 Gosto de aprender coisas novas, resolver problemas e explorar como a tecnologia pode facilitar o dia a dia.  
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente estudando **Java, Python e Desenvolvimento Web**
-- 📊 Curioso em **Matemática aplicada e Ciência de Dados**
+- 🔭 Atualmente estudando **Java, JavaScript e Desenvolvimento Web**
+- 📊 Curioso em **Desenvolvimento full stack**
 - 🌱 Sempre aprendendo algo novo (meu foco agora é **projetos práticos**)
 - 🎯 Objetivo: crescer como desenvolvedor e contribuir em **projetos open source**
 
@@ -15,7 +15,7 @@ Gosto de aprender coisas novas, resolver problemas e explorar como a tecnologia 
 
 ## 🛠️ Tecnologias que utilizo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,8 +30,8 @@ Gosto de aprender coisas novas, resolver problemas e explorar como a tecnologia 
 ---
 
 ## 🌐 Onde me encontrar
-- 📫 Email: **seuemail@gmail.com**
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/SEU-USUARIO/)
+- 📫 Email: **pedrololara342@gmail.com**
+- 💼 LinkedIn: [Seu LinkedIn](www.linkedin.com/in/pedro-henrique-50242236a)
 - 📝 Projetos: [Meu GitHub](https://github.com/SEU-USUARIO)
 
 ---
