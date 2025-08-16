@@ -31,8 +31,8 @@ Gosto de aprender coisas novas, resolver problemas e explorar como a tecnologia 
 
 ## 🌐 Onde me encontrar
 - 📫 Email: **pedrololara342@gmail.com**
-- 💼 LinkedIn: [Seu LinkedIn](www.linkedin.com/in/pedro-henrique-50242236a)
-- 📝 Projetos: [Meu GitHub](https://github.com/SEU-USUARIO)
+- 💼 LinkedIn: [Meu LinkedIn](www.linkedin.com/in/pedro-henrique-50242236a)
+- 📝 Projetos: [Meu GitHub](https://github.com/PedroLara-jpg)
 
 ---
 
